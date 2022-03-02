@@ -4,7 +4,7 @@
 
 ---
 
-![Screenshot from Project](./images/project.png)
+![coming soon.....](./images/project.png)
 
 #### Navigation
 
