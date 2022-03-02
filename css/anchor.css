@@ -1,0 +1,18 @@
+a, a:link, a:visited{
+    text-decoration: none;
+    color:#868686;
+     }
+
+a:hover{
+    color:white;
+    transform: scale(2);
+}
+
+header a{
+    color:black;
+    }
+
+header a:hover{
+    color:blue;
+    transition:0.3s;
+}

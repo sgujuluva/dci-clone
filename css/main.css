@@ -1,0 +1,50 @@
+.navbar{
+    grid-area: menu;
+    /* background-color: rgba(120,0,0,0.5); */
+    height:100%;
+}
+.main-contents{
+    grid-area: intro;
+    background-color: rgba(197, 87, 182, 0.849);
+    height:100%;
+}
+.our-courses{
+    grid-area: courses;
+    background-color: rgba(179, 139, 65, 0.664);
+    height:100%;
+    width:100vw;
+}
+footer{
+    grid-area: footer;
+    background-color: #04083c;
+}
+
+/* main container */
+.main-contents{
+    height:100%;
+ width:100vw;
+}
+.main-contents article{
+    width:45vw;
+    background-color: white;
+    padding: 2%;
+    display:flex;
+}
+.main-contents article div{
+    font-size: 2rem;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 1.5;
+}
+.main-contents button{
+    width:20%;
+    height:7%;
+    background-color: orange;
+    font-size: large;
+    color:white;
+    border:none;
+    box-shadow: 10px 5px 5px orange;
+    cursor: pointer;
+}

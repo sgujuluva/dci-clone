@@ -1,0 +1,61 @@
+header{
+    display:flex;
+     font-size: larger;
+}
+header img{
+  
+  font-size: larger;
+  background-color: red;
+}
+ header button{
+   width:5rem;
+    background-color: blue;
+    color:white;
+} 
+.navbar{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+   /*  flex-flow: row; */
+    position: relative;
+    width:100vw;
+    height:5vh; 
+}
+.list-item{
+    background-color: blue;
+    list-style-type: none;
+   padding:0.5rem;
+}
+.subnav-text {
+    border: none;
+    background-color: inherit;
+    font-size: 1.2rem;
+    color:black;
+    font-weight: bold;
+      }
+.subnav-content{
+    display:none;  
+}
+/* dropdown menu */
+.subnav:hover .subnav-content{
+    display:block;
+    transition: all 0.5s ease-in;
+} 
+.list-item:hover {
+    background-color: lightgray;
+    color: orange;
+   
+  } 
+ /* our course container */
+ .our-courses{
+   display:grid;
+   grid-template-columns: repeat(2,1fr);
+   }
+   .our-courses article{
+    background-color: white;
+    padding: 3%;
+    margin: 5%;
+    box-shadow: 3px 3px 10px gray;
+   }
+
+  
