@@ -32,20 +32,18 @@
 
 ### Contact
 
-Mail: <you@mail.com><br>
-GitHub: [yourGHName](https://github.com/)<br>
-LinkedIn: [your linkedIn](#)
+Mail: <sanghee04@gmail.com><br>
+GitHub: [sgujuluva](https://github.com/)<br>
+
 
 ---
 
 ### Used Tools
 
-- [icons](https://)
+- [icons](https://fontawesome.com)
 - [Canva](https://www.canva.com/)
-- [npm](https://www.npmjs.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [ColorZilla](https://www.colorzilla.com/chrome/)
 
 ---
 
